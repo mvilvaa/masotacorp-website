@@ -1,0 +1,14 @@
+{
+  "name": "Masota Corporation",
+  "short_name": "Masota",
+  "description": "Masota Corporation is a diversified technology, talent and growth company delivering software development, SaaS platforms, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "lang": "en-US",
+  "icons": [
+    { "src": "assets/masota-mark.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/masota-mark.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

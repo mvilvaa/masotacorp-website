@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Masota Corporation | Talent. Technology. Growth.</title>
+<meta name="description" content="Masota Corporation is a diversified business and technology company delivering software development, SaaS solutions, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://masotacorp.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Masota Corporation | Talent. Technology. Growth.">
+<meta property="og:description" content="Masota Corporation is a diversified business and technology company delivering software development, SaaS solutions, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide.">
+<meta property="og:url" content="https://masotacorp.com/">
+<meta property="og:site_name" content="Masota Corporation">
+<meta property="og:image" content="https://masotacorp.com/assets/masota-mark.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Masota Corporation | Talent. Technology. Growth.">
+<meta name="twitter:description" content="Masota Corporation is a diversified business and technology company delivering software development, SaaS solutions, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide.">
+<meta name="twitter:image" content="https://masotacorp.com/assets/masota-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style-v2.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://masotacorp.com/#organization","name":"Masota Corporation","legalName":"Masota Corporation","url":"https://masotacorp.com","logo":{"@type":"ImageObject","url":"https://masotacorp.com/assets/masota-mark.png"},"description":"Masota Corporation is a diversified business and technology company delivering software development, SaaS platforms, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide.","email":"info@masotacorp.com","telephone":"+1-315-596-2665","address":{"@type":"PostalAddress","streetAddress":"315 Lowell Avenue","addressLocality":"Hamilton","addressRegion":"NJ","postalCode":"08619","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":40.2287,"longitude":-74.7018},"areaServed":{"@type":"Country","name":"United States"},"sameAs":["https://www.linkedin.com/company/masotacorp"]},{"@type":"WebSite","@id":"https://masotacorp.com/#website","url":"https://masotacorp.com","name":"Masota Corporation","publisher":{"@id":"https://masotacorp.com/#organization"}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What does Masota Corporation do?","acceptedAnswer":{"@type":"Answer","text":"Masota Corporation is a diversified business and technology company delivering solutions across software development, SaaS platforms, talent solutions, digital marketing, e-commerce, creative media, and strategic partnerships worldwide."}},{"@type":"Question","name":"What industries does Masota serve?","acceptedAnswer":{"@type":"Answer","text":"Masota serves Technology, Healthcare, Manufacturing, Retail, E-Commerce, Hospitality, Real Estate, Education, Logistics, and Professional Services."}},{"@type":"Question","name":"Where is Masota Corporation located?","acceptedAnswer":{"@type":"Answer","text":"Masota Corporation is located at 315 Lowell Avenue, Hamilton, NJ 08619, United States, and serves clients nationwide."}},{"@type":"Question","name":"How can companies contact Masota Corporation?","acceptedAnswer":{"@type":"Answer","text":"Call +1 (315) 596-2665, email info@masotacorp.com, or visit 315 Lowell Avenue, Hamilton, NJ 08619."}}]}]}</script></head>
+<body><header class="nav-header" id="nav-header">
+<nav class="nav-inner">
+  <a href="index.html" class="nav-brand"><img src="assets/masota-mark.png" alt="Masota Corporation" class="nav-logo" width="42" height="42" loading="eager"><span class="nav-brand-text"><span class="nav-brand-name">Masota</span><span class="nav-brand-sub">CORPORATION</span></span></a>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="about.html" class="nav-link">About</a>
+    <div class="nav-dropdown"><button class="nav-dropdown-btn">Solutions <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></button><div class="nav-dropdown-menu wide"><a href="services.html">TabEmail</a><a href="services.html">TabRecruit</a><a href="services.html">Talent Solutions</a><a href="services.html">Software Development</a><a href="services.html">Digital Marketing</a><div class="nav-drop-divider"></div><a href="services.html" class="nav-drop-all">All Solutions &#8594;</a></div></div>
+    <div class="nav-dropdown"><button class="nav-dropdown-btn">Industries <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></button><div class="nav-dropdown-menu wide"><a href="industry-it.html">Technology</a><a href="industry-healthcare.html">Healthcare</a><a href="industry-manufacturing.html">Manufacturing</a><a href="industry-retail.html">Retail</a><a href="industry-ecommerce.html">E-Commerce</a><a href="industry-hospitality.html">Hospitality</a><a href="industry-logistics.html">Logistics</a><a href="industry-professional-services.html">Professional Services</a><div class="nav-drop-divider"></div><a href="industries.html" class="nav-drop-all">All Industries &#8594;</a></div></div>
+    <div class="nav-dropdown"><button class="nav-dropdown-btn">Resources <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></button><div class="nav-dropdown-menu"><a href="blog.html">Blog</a><a href="resources.html">Resource Center</a><a href="faq.html">FAQ</a><a href="case-studies.html">Case Studies</a><div class="nav-drop-divider"></div><a href="resources.html" class="nav-drop-all">All Resources &#8594;</a></div></div>
+    <a href="careers.html" class="nav-link">Careers</a>
+    <a href="contact.html" class="nav-link">Contact</a>
+    <a href="contact.html" class="nav-cta">Get Started</a>
+  </div>
+  <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+</nav>
+<div class="nav-mobile" id="nav-mobile">
+  <a href="index.html" class="nav-mlink">Home</a><a href="about.html" class="nav-mlink">About</a>
+  <div class="nav-mobile-group"><div class="nav-mobile-group-head" id="mobile-solutions-head">Solutions <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></div><div class="nav-mobile-sub" id="mobile-solutions-sub"><a href="services.html" class="nav-mlink nav-mlink-sub">TabEmail</a><a href="services.html" class="nav-mlink nav-mlink-sub">TabRecruit</a><a href="services.html" class="nav-mlink nav-mlink-sub">Talent Solutions</a><a href="services.html" class="nav-mlink nav-mlink-sub">Software Development</a><a href="services.html" class="nav-mlink nav-mlink-sub">Digital Marketing</a><a href="services.html" class="nav-mlink nav-mlink-sub">All Solutions</a></div></div>
+  <div class="nav-mobile-group"><div class="nav-mobile-group-head" id="mobile-industries-head">Industries <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></div><div class="nav-mobile-sub" id="mobile-industries-sub"><a href="industry-it.html" class="nav-mlink nav-mlink-sub">Technology</a><a href="industry-healthcare.html" class="nav-mlink nav-mlink-sub">Healthcare</a><a href="industry-manufacturing.html" class="nav-mlink nav-mlink-sub">Manufacturing</a><a href="industry-retail.html" class="nav-mlink nav-mlink-sub">Retail</a><a href="industry-ecommerce.html" class="nav-mlink nav-mlink-sub">E-Commerce</a><a href="industry-hospitality.html" class="nav-mlink nav-mlink-sub">Hospitality</a><a href="industry-logistics.html" class="nav-mlink nav-mlink-sub">Logistics</a><a href="industry-professional-services.html" class="nav-mlink nav-mlink-sub">Professional Services</a><a href="industries.html" class="nav-mlink nav-mlink-sub">All Industries</a></div></div>
+  <div class="nav-mobile-group"><div class="nav-mobile-group-head" id="mobile-resources-head">Resources <svg class="nav-dropdown-chevron" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg></div><div class="nav-mobile-sub" id="mobile-resources-sub"><a href="blog.html" class="nav-mlink nav-mlink-sub">Blog</a><a href="resources.html" class="nav-mlink nav-mlink-sub">Resource Center</a><a href="faq.html" class="nav-mlink nav-mlink-sub">FAQ</a><a href="case-studies.html" class="nav-mlink nav-mlink-sub">Case Studies</a></div></div>
+  <a href="careers.html" class="nav-mlink">Careers</a><a href="contact.html" class="nav-mlink">Contact</a>
+  <a href="contact.html" class="nav-mcta">Get Started</a>
+</div>
+</header>
